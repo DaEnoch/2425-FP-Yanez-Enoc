@@ -17,6 +17,7 @@ datos_ciudades = {
 
 resultados = calcular_temperatura_promedio(datos_ciudades)
 
+#procedemos a imprimir los resultados
 print("Temperaturas Promedio por Ciudad:")
 for ciudad, promedio in resultados.items():
     print(f"{ciudad}: {promedio}°C")
