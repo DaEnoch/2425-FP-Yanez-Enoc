@@ -1,0 +1,4 @@
+Mis notas personales:
+1. Me interesa mucho el mundo de la programación, especialmente escribir: print('Hola mundo') 
+2. Tengo 17 años 
+3. Me gusta el encebollado 
